@@ -32,7 +32,7 @@ public class LogIn extends JFrame implements ActionListener {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	public void actionPerformed(ActionEvent e) {
-		String id = "SSSOy";
+		String id = "SSSo";
 		String pw = "1234";
 		
 		if(id.equals(ID.getText()) && pw.equals(PW.getText())) 
